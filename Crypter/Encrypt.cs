@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
 using System.IO;
+using System.Windows.Forms;
 
 namespace Crypter
 {
@@ -32,7 +33,7 @@ namespace Crypter
             {
                 decData = DecryptStringToBytes_Aes(data, keys[0], keys[1]);
             }
-            catch (CryptographicException) { }
+            catch (CryptographicException) { MessageBox.Show("Decryption Failed!\nYou have entered an invalid Decryption key."); }
             catch (ArgumentNullException) { }
             return decData;
 
