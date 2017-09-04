@@ -1,0 +1,9 @@
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\bin\Debug\Crypter.exe.config
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\bin\Debug\Crypter.exe
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\bin\Debug\Crypter.pdb
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\obj\Debug\Crypter.csprojResolveAssemblyReference.cache
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\obj\Debug\Crypter.Form1.resources
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\obj\Debug\Crypter.Properties.Resources.resources
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\obj\Debug\Crypter.csproj.GenerateResource.Cache
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\obj\Debug\Crypter.exe
+C:\Users\Jannik\Desktop\Github Repos\Crypter\Crypter\obj\Debug\Crypter.pdb
